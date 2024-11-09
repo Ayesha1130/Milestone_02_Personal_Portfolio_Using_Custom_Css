@@ -6,14 +6,14 @@
   justify-content: center;
 }
 .mainTag2 {
-  border: 2px, solid #eda840;
+  border: 2px solid #eda840;
   border-radius: 20px;
   width: 80%;
   height: 90vh;
   padding: 40px;
 
   margin-bottom: 20px;
-  border-width: 20%;
+  border-width: 2px;
 }
 
 .h1Tag {
@@ -72,6 +72,6 @@
     padding: 10px;
 
     margin-bottom: 20px;
-    border-width: 20%;
+    border-width: 2px;
   }
 }
